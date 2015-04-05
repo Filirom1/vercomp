@@ -1,0 +1,32 @@
+{
+  "name": "vercomp",
+  "version": "1.0.0",
+  "description": "Version Comparison in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Filirom1/vercomp.git"
+  },
+  "keywords": [
+    "version",
+    "comparison"
+  ],
+  "author": "Filirom1 <Filirom1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Filirom1/vercomp/issues"
+  },
+  "homepage": "https://github.com/Filirom1/vercomp"
+}
