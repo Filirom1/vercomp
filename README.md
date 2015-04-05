@@ -1,4 +1,4 @@
-# vercomp
+# vercomp [![Build Status](https://travis-ci.org/Filirom1/vercomp.svg)](https://travis-ci.org/Filirom1/vercomp)
 Version Comparison in JavaScript
 
 Inspired by <https://fedoraproject.org/wiki/Archive:Tools/RPM/VersionComparison>
